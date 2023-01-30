@@ -1,0 +1,1000 @@
+{
+	"phones": [
+		9996628571,
+		9996628572,
+		9996628573,
+		9996628574,
+		9996628575,
+		9996628576,
+		9996628577,
+		9996628578,
+		9996628579,
+		9996628580,
+		9996629578,
+		639682557550,
+		639925933411
+	],
+	"account": {
+		"9682557550": {
+			"test": false,
+			"filepath": "./account/data/2.json",
+			"account": 9682557550
+		},
+		"9996628571": {
+			"test": true,
+			"filepath": "./account/data/9996628571.json",
+			"account": 9996628571
+		},
+		"9996628572": {
+			"test": true,
+			"filepath": "./account/data/9996628572.json",
+			"account": 9996628572
+		},
+		"9996628573": {
+			"test": true,
+			"filepath": "./account/data/9996628573.json",
+			"account": 9996628573
+		},
+		"9996628574": {
+			"test": true,
+			"filepath": "./account/data/9996628574.json",
+			"account": 9996628574
+		},
+		"9996628575": {
+			"test": true,
+			"filepath": "./account/data/9996628575.json",
+			"account": 9996628575
+		},
+		"9996628576": {
+			"test": true,
+			"filepath": "./account/data/9996628576.json",
+			"account": 9996628576
+		},
+		"9996628577": {
+			"test": true,
+			"filepath": "./account/data/9996628577.json",
+			"account": 9996628577
+		},
+		"9996628578": {
+			"test": true,
+			"filepath": "./account/data/9996628578.json",
+			"account": 9996628578
+		},
+		"9996628579": {
+			"test": true,
+			"filepath": "./account/data/9996628579.json",
+			"account": 9996628579
+		},
+		"9996628580": {
+			"test": true,
+			"filepath": "./account/data/9996628580.json",
+			"account": 9996628580
+		},
+		"9996629578": {
+			"test": true,
+			"filepath": "./account/data/9996629578.json",
+			"account": 9996629578
+		},
+		"639682557550": {
+			"test": false,
+			"filepath": "./account/data/639682557550.json",
+			"account": 639682557550
+		},
+		"639925933411": {
+			"test": false,
+			"filepath": "./account/data/639925933411.json",
+			"account": 639925933411
+		}
+	},
+	"dialogs": {
+		"639925933411": {
+			"_": "messages.dialogs",
+			"dialogs": [
+				{
+					"_": "dialog",
+					"flags": 0,
+					"pinned": false,
+					"unread_mark": false,
+					"peer": {
+						"_": "peerUser",
+						"user_id": "777000"
+					},
+					"top_message": 59,
+					"read_inbox_max_id": 59,
+					"read_outbox_max_id": 0,
+					"unread_count": 0,
+					"unread_mentions_count": 0,
+					"unread_reactions_count": 0,
+					"notify_settings": {
+						"_": "peerNotifySettings",
+						"flags": 0
+					}
+				},
+				{
+					"_": "dialog",
+					"flags": 1,
+					"pinned": false,
+					"unread_mark": false,
+					"peer": {
+						"_": "peerChannel",
+						"channel_id": "1651676187"
+					},
+					"top_message": 32,
+					"read_inbox_max_id": 33,
+					"read_outbox_max_id": 0,
+					"unread_count": 0,
+					"unread_mentions_count": 0,
+					"unread_reactions_count": 0,
+					"notify_settings": {
+						"_": "peerNotifySettings",
+						"flags": 7,
+						"show_previews": true,
+						"silent": false,
+						"mute_until": 2147483647
+					},
+					"pts": 46
+				},
+				{
+					"_": "dialog",
+					"flags": 0,
+					"pinned": false,
+					"unread_mark": false,
+					"peer": {
+						"_": "peerUser",
+						"user_id": "5578828503"
+					},
+					"top_message": 58,
+					"read_inbox_max_id": 58,
+					"read_outbox_max_id": 57,
+					"unread_count": 0,
+					"unread_mentions_count": 0,
+					"unread_reactions_count": 0,
+					"notify_settings": {
+						"_": "peerNotifySettings",
+						"flags": 0
+					}
+				},
+				{
+					"_": "dialog",
+					"flags": 1,
+					"pinned": false,
+					"unread_mark": false,
+					"peer": {
+						"_": "peerChannel",
+						"channel_id": "1582794012"
+					},
+					"top_message": 180,
+					"read_inbox_max_id": 180,
+					"read_outbox_max_id": 180,
+					"unread_count": 0,
+					"unread_mentions_count": 0,
+					"unread_reactions_count": 0,
+					"notify_settings": {
+						"_": "peerNotifySettings",
+						"flags": 5,
+						"show_previews": true,
+						"mute_until": 2147483647
+					},
+					"pts": 208
+				},
+				{
+					"_": "dialog",
+					"flags": 0,
+					"pinned": false,
+					"unread_mark": false,
+					"peer": {
+						"_": "peerUser",
+						"user_id": "212353642"
+					},
+					"top_message": 36,
+					"read_inbox_max_id": 36,
+					"read_outbox_max_id": 35,
+					"unread_count": 0,
+					"unread_mentions_count": 0,
+					"unread_reactions_count": 0,
+					"notify_settings": {
+						"_": "peerNotifySettings",
+						"flags": 0
+					}
+				},
+				{
+					"_": "dialog",
+					"flags": 0,
+					"pinned": false,
+					"unread_mark": false,
+					"peer": {
+						"_": "peerUser",
+						"user_id": "93372553"
+					},
+					"top_message": 22,
+					"read_inbox_max_id": 22,
+					"read_outbox_max_id": 21,
+					"unread_count": 0,
+					"unread_mentions_count": 0,
+					"unread_reactions_count": 0,
+					"notify_settings": {
+						"_": "peerNotifySettings",
+						"flags": 0
+					}
+				},
+				{
+					"_": "dialog",
+					"flags": 0,
+					"pinned": false,
+					"unread_mark": false,
+					"peer": {
+						"_": "peerUser",
+						"user_id": "401234709"
+					},
+					"top_message": 3,
+					"read_inbox_max_id": 3,
+					"read_outbox_max_id": 1,
+					"unread_count": 0,
+					"unread_mentions_count": 0,
+					"unread_reactions_count": 0,
+					"notify_settings": {
+						"_": "peerNotifySettings",
+						"flags": 0
+					}
+				}
+			],
+			"messages": [
+				{
+					"_": "message",
+					"flags": 128,
+					"out": false,
+					"mentioned": false,
+					"media_unread": false,
+					"silent": false,
+					"post": false,
+					"from_scheduled": false,
+					"legacy": false,
+					"edit_hide": false,
+					"pinned": false,
+					"noforwards": false,
+					"id": 59,
+					"peer_id": {
+						"_": "peerUser",
+						"user_id": "777000"
+					},
+					"date": 1661195589,
+					"message": "Login code: 59076. Do not give this code to anyone, even if they say they are from Telegram!\n\nThis code can be used to log in to your Telegram account. We never ask it for anything else.\n\nIf you didn't request this code by trying to log in on another device, simply ignore this message.",
+					"entities": [
+						{
+							"_": "messageEntityBold",
+							"offset": 0,
+							"length": 11
+						},
+						{
+							"_": "messageEntityBold",
+							"offset": 22,
+							"length": 3
+						}
+					]
+				},
+				{
+					"_": "message",
+					"flags": 17472,
+					"out": false,
+					"mentioned": false,
+					"media_unread": false,
+					"silent": false,
+					"post": true,
+					"from_scheduled": false,
+					"legacy": false,
+					"edit_hide": false,
+					"pinned": false,
+					"noforwards": false,
+					"id": 32,
+					"peer_id": {
+						"_": "peerChannel",
+						"channel_id": "1651676187"
+					},
+					"date": 1661191180,
+					"message": "hello",
+					"reply_markup": {
+						"_": "replyInlineMarkup",
+						"rows": [
+							{
+								"_": "keyboardButtonRow",
+								"buttons": [
+									{
+										"_": "keyboardButtonUrl",
+										"text": "上方业务",
+										"url": "https://t.me/tt168800"
+									},
+									{
+										"_": "keyboardButtonUrl",
+										"text": "点此联系",
+										"url": "https://t.me/tt168800"
+									}
+								]
+							},
+							{
+								"_": "keyboardButtonRow",
+								"buttons": [
+									{
+										"_": "keyboardButtonUrl",
+										"text": "猎豹广告 协议推送 日发百万",
+										"url": "https://t.me/tt168800"
+									}
+								]
+							}
+						]
+					},
+					"views": 2,
+					"forwards": 0
+				},
+				{
+					"_": "message",
+					"flags": 512,
+					"out": false,
+					"mentioned": false,
+					"media_unread": false,
+					"silent": false,
+					"post": false,
+					"from_scheduled": false,
+					"legacy": false,
+					"edit_hide": false,
+					"pinned": false,
+					"noforwards": false,
+					"id": 58,
+					"peer_id": {
+						"_": "peerUser",
+						"user_id": "5578828503"
+					},
+					"date": 1661191126,
+					"message": "",
+					"media": {
+						"_": "messageMediaUnsupported"
+					}
+				},
+				{
+					"_": "message",
+					"flags": 8388998,
+					"out": true,
+					"mentioned": false,
+					"media_unread": false,
+					"silent": false,
+					"post": false,
+					"from_scheduled": false,
+					"legacy": false,
+					"edit_hide": false,
+					"pinned": false,
+					"noforwards": false,
+					"id": 180,
+					"from_id": {
+						"_": "peerUser",
+						"user_id": "5504150431"
+					},
+					"peer_id": {
+						"_": "peerChannel",
+						"channel_id": "1582794012"
+					},
+					"fwd_from": {
+						"_": "messageFwdHeader",
+						"flags": 1,
+						"imported": false,
+						"from_id": {
+							"_": "peerUser",
+							"user_id": "5578828503"
+						},
+						"date": 1661191032
+					},
+					"date": 1661191044,
+					"message": "轻触一下按钮打开小程序",
+					"entities": [
+						{
+							"_": "messageEntityBold",
+							"offset": 0,
+							"length": 11
+						}
+					],
+					"replies": {
+						"_": "messageReplies",
+						"flags": 0,
+						"comments": false,
+						"replies": 0,
+						"replies_pts": 208
+					}
+				},
+				{
+					"_": "message",
+					"flags": 72,
+					"out": false,
+					"mentioned": false,
+					"media_unread": false,
+					"silent": false,
+					"post": false,
+					"from_scheduled": false,
+					"legacy": false,
+					"edit_hide": false,
+					"pinned": false,
+					"noforwards": false,
+					"id": 36,
+					"peer_id": {
+						"_": "peerUser",
+						"user_id": "212353642"
+					},
+					"reply_to": {
+						"_": "messageReplyHeader",
+						"flags": 0,
+						"reply_to_msg_id": 35
+					},
+					"date": 1661186379,
+					"message": "The username you provided doesn't point to a channel. Try again or forward any message from your channel here.",
+					"reply_markup": {
+						"_": "replyKeyboardForceReply",
+						"flags": 2,
+						"single_use": true,
+						"selective": false
+					}
+				},
+				{
+					"_": "message",
+					"flags": 192,
+					"out": false,
+					"mentioned": false,
+					"media_unread": false,
+					"silent": false,
+					"post": false,
+					"from_scheduled": false,
+					"legacy": false,
+					"edit_hide": false,
+					"pinned": false,
+					"noforwards": false,
+					"id": 22,
+					"peer_id": {
+						"_": "peerUser",
+						"user_id": "93372553"
+					},
+					"date": 1661177026,
+					"message": "Done! Congratulations on your new bot. You will find it at t.me/myliecsbot. You can now add a description, about section and profile picture for your bot, see /help for a list of commands. By the way, when you've finished creating your cool bot, ping our Bot Support if you want a better username for it. Just make sure the bot is fully operational before you do this.\n\nUse this token to access the HTTP API:\n5578828503:AAFThD1w9usY3VMs1Cc7RVG9SewZnj9KmcU\nKeep your token secure and store it safely, it can be used by anyone to control your bot.\n\nFor a description of the Bot API, see this page: https://core.telegram.org/bots/api",
+					"reply_markup": {
+						"_": "replyKeyboardHide",
+						"flags": 0,
+						"selective": false
+					},
+					"entities": [
+						{
+							"_": "messageEntityUrl",
+							"offset": 59,
+							"length": 15
+						},
+						{
+							"_": "messageEntityBotCommand",
+							"offset": 159,
+							"length": 5
+						},
+						{
+							"_": "messageEntityCode",
+							"offset": 409,
+							"length": 46
+						},
+						{
+							"_": "messageEntityBold",
+							"offset": 472,
+							"length": 6
+						},
+						{
+							"_": "messageEntityBold",
+							"offset": 483,
+							"length": 15
+						},
+						{
+							"_": "messageEntityUrl",
+							"offset": 596,
+							"length": 34
+						}
+					]
+				},
+				{
+					"_": "message",
+					"flags": 192,
+					"out": false,
+					"mentioned": false,
+					"media_unread": false,
+					"silent": false,
+					"post": false,
+					"from_scheduled": false,
+					"legacy": false,
+					"edit_hide": false,
+					"pinned": false,
+					"noforwards": false,
+					"id": 3,
+					"peer_id": {
+						"_": "peerUser",
+						"user_id": "401234709"
+					},
+					"date": 1661172168,
+					"message": "发送关键词来寻找群组、频道或机器人。\n\n👉 点这里安装【简体中文】👈\n\n🏁 发送 /lang 切换语言",
+					"reply_markup": {
+						"_": "replyKeyboardMarkup",
+						"flags": 1,
+						"resize": true,
+						"single_use": false,
+						"selective": false,
+						"rows": [
+							{
+								"_": "keyboardButtonRow",
+								"buttons": [
+									{
+										"_": "keyboardButton",
+										"text": "📢 频道"
+									},
+									{
+										"_": "keyboardButton",
+										"text": "👥 群组"
+									}
+								]
+							},
+							{
+								"_": "keyboardButtonRow",
+								"buttons": [
+									{
+										"_": "keyboardButton",
+										"text": "🤖 机器人"
+									},
+									{
+										"_": "keyboardButton",
+										"text": "🏷 标签"
+									}
+								]
+							},
+							{
+								"_": "keyboardButtonRow",
+								"buttons": [
+									{
+										"_": "keyboardButton",
+										"text": "❓ 帮助！"
+									},
+									{
+										"_": "keyboardButton",
+										"text": "👤 我的"
+									}
+								]
+							}
+						]
+					},
+					"entities": [
+						{
+							"_": "messageEntityTextUrl",
+							"offset": 20,
+							"length": 16,
+							"url": "tg://setlanguage?lang=zhcncc"
+						},
+						{
+							"_": "messageEntityBold",
+							"offset": 41,
+							"length": 3
+						},
+						{
+							"_": "messageEntityBotCommand",
+							"offset": 44,
+							"length": 5
+						},
+						{
+							"_": "messageEntityBold",
+							"offset": 44,
+							"length": 5
+						},
+						{
+							"_": "messageEntityBold",
+							"offset": 50,
+							"length": 4
+						}
+					]
+				}
+			],
+			"chats": [
+				{
+					"_": "channel",
+					"flags": 155680,
+					"creator": false,
+					"left": false,
+					"broadcast": true,
+					"verified": false,
+					"megagroup": false,
+					"restricted": false,
+					"signatures": false,
+					"min": false,
+					"scam": false,
+					"has_link": false,
+					"has_geo": false,
+					"slowmode_enabled": false,
+					"call_active": false,
+					"call_not_empty": false,
+					"fake": false,
+					"gigagroup": false,
+					"noforwards": false,
+					"id": "1651676187",
+					"access_hash": "9619118740421488995",
+					"title": "猎豹广告 稳定高效 协议推送 日发百万",
+					"photo": {
+						"_": "chatPhotoEmpty"
+					},
+					"date": 1661173320,
+					"admin_rights": {
+						"_": "chatAdminRights",
+						"flags": 4159,
+						"change_info": true,
+						"post_messages": true,
+						"edit_messages": true,
+						"delete_messages": true,
+						"ban_users": true,
+						"invite_users": true,
+						"pin_messages": false,
+						"add_admins": false,
+						"anonymous": false,
+						"manage_call": false,
+						"other": true
+					},
+					"participants_count": 4
+				},
+				{
+					"_": "channel",
+					"flags": 401728,
+					"creator": false,
+					"left": false,
+					"broadcast": false,
+					"verified": false,
+					"megagroup": true,
+					"restricted": false,
+					"signatures": false,
+					"min": false,
+					"scam": false,
+					"has_link": false,
+					"has_geo": false,
+					"slowmode_enabled": false,
+					"call_active": false,
+					"call_not_empty": false,
+					"fake": false,
+					"gigagroup": false,
+					"noforwards": false,
+					"id": "1582794012",
+					"access_hash": "15240968983203019854",
+					"title": "电报机器人开发",
+					"username": "tgappdev",
+					"photo": {
+						"_": "chatPhotoEmpty"
+					},
+					"date": 1661173337,
+					"default_banned_rights": {
+						"_": "chatBannedRights",
+						"flags": 165248,
+						"view_messages": false,
+						"send_messages": false,
+						"send_media": false,
+						"send_stickers": false,
+						"send_gifs": false,
+						"send_games": false,
+						"send_inline": false,
+						"embed_links": true,
+						"send_polls": true,
+						"change_info": true,
+						"invite_users": true,
+						"pin_messages": true,
+						"until_date": 2147483647
+					},
+					"participants_count": 5
+				},
+				{
+					"_": "chatForbidden",
+					"id": "662081659",
+					"title": "电报机器人开发"
+				}
+			],
+			"users": [
+				{
+					"_": "user",
+					"flags": 42074227,
+					"self": false,
+					"contact": false,
+					"mutual_contact": false,
+					"deleted": false,
+					"bot": false,
+					"bot_chat_history": false,
+					"bot_nochats": false,
+					"verified": true,
+					"restricted": false,
+					"min": false,
+					"bot_inline_geo": false,
+					"support": true,
+					"scam": false,
+					"apply_min_photo": true,
+					"fake": false,
+					"id": "777000",
+					"access_hash": "1778025762066054340",
+					"first_name": "Telegram",
+					"phone": "42777",
+					"photo": {
+						"_": "userProfilePhoto",
+						"flags": 2,
+						"has_video": false,
+						"photo_id": "3337190045231025",
+						"stripped_thumb": {
+							"0": 1,
+							"1": 8,
+							"2": 8,
+							"3": 144,
+							"4": 121,
+							"5": 126,
+							"6": 89,
+							"7": 228,
+							"8": 239,
+							"9": 162,
+							"10": 138,
+							"11": 43,
+							"12": 166,
+							"13": 199,
+							"14": 37,
+							"15": 207
+						},
+						"dc_id": 1
+					},
+					"status": {
+						"_": "userStatusOffline",
+						"was_online": 1614856920
+					}
+				},
+				{
+					"_": "user",
+					"flags": 33570827,
+					"self": false,
+					"contact": false,
+					"mutual_contact": false,
+					"deleted": false,
+					"bot": true,
+					"bot_chat_history": false,
+					"bot_nochats": false,
+					"verified": false,
+					"restricted": false,
+					"min": false,
+					"bot_inline_geo": false,
+					"support": false,
+					"scam": false,
+					"apply_min_photo": true,
+					"fake": false,
+					"id": "5578828503",
+					"access_hash": "10763342312454995315",
+					"first_name": "myliecs",
+					"username": "myliecsbot",
+					"bot_info_version": 1
+				},
+				{
+					"_": "user",
+					"flags": 34095147,
+					"self": false,
+					"contact": false,
+					"mutual_contact": false,
+					"deleted": false,
+					"bot": true,
+					"bot_chat_history": false,
+					"bot_nochats": false,
+					"verified": false,
+					"restricted": false,
+					"min": false,
+					"bot_inline_geo": false,
+					"support": false,
+					"scam": false,
+					"apply_min_photo": true,
+					"fake": false,
+					"id": "212353642",
+					"access_hash": "3432167914406572054",
+					"first_name": "YouTube Bot",
+					"username": "youtube",
+					"photo": {
+						"_": "userProfilePhoto",
+						"flags": 2,
+						"has_video": false,
+						"photo_id": "912051948032731049",
+						"stripped_thumb": {
+							"0": 1,
+							"1": 8,
+							"2": 8,
+							"3": 127,
+							"4": 238,
+							"5": 60,
+							"6": 158,
+							"7": 254,
+							"8": 102,
+							"9": 63,
+							"10": 90,
+							"11": 40,
+							"12": 162,
+							"13": 179,
+							"14": 61,
+							"15": 4,
+							"16": 172,
+							"17": 127
+						},
+						"dc_id": 1
+					},
+					"bot_info_version": 10,
+					"bot_inline_placeholder": "Search videos..."
+				},
+				{
+					"_": "user",
+					"flags": 33767467,
+					"self": false,
+					"contact": false,
+					"mutual_contact": false,
+					"deleted": false,
+					"bot": true,
+					"bot_chat_history": false,
+					"bot_nochats": true,
+					"verified": true,
+					"restricted": false,
+					"min": false,
+					"bot_inline_geo": false,
+					"support": false,
+					"scam": false,
+					"apply_min_photo": true,
+					"fake": false,
+					"id": "93372553",
+					"access_hash": "18335243565063322825",
+					"first_name": "BotFather",
+					"username": "BotFather",
+					"photo": {
+						"_": "userProfilePhoto",
+						"flags": 2,
+						"has_video": false,
+						"photo_id": "401032061935265706",
+						"stripped_thumb": {
+							"0": 1,
+							"1": 8,
+							"2": 8,
+							"3": 159,
+							"4": 207,
+							"5": 127,
+							"6": 180,
+							"7": 23,
+							"8": 236,
+							"9": 100,
+							"10": 217,
+							"11": 69,
+							"12": 20,
+							"13": 80,
+							"14": 22,
+							"15": 63
+						},
+						"dc_id": 1
+					},
+					"bot_info_version": 19
+				},
+				{
+					"_": "user",
+					"flags": 33570859,
+					"self": false,
+					"contact": false,
+					"mutual_contact": false,
+					"deleted": false,
+					"bot": true,
+					"bot_chat_history": false,
+					"bot_nochats": false,
+					"verified": false,
+					"restricted": false,
+					"min": false,
+					"bot_inline_geo": false,
+					"support": false,
+					"scam": false,
+					"apply_min_photo": true,
+					"fake": false,
+					"id": "401234709",
+					"access_hash": "5385265870952030313",
+					"first_name": "🔍 超级索引",
+					"username": "hao1234bot",
+					"photo": {
+						"_": "userProfilePhoto",
+						"flags": 2,
+						"has_video": false,
+						"photo_id": "1723289953631315882",
+						"stripped_thumb": {
+							"0": 1,
+							"1": 8,
+							"2": 8,
+							"3": 148,
+							"4": 152,
+							"5": 188,
+							"6": 140,
+							"7": 13,
+							"8": 187,
+							"9": 241,
+							"10": 232,
+							"11": 115,
+							"12": 156,
+							"13": 209,
+							"14": 69,
+							"15": 21,
+							"16": 212,
+							"17": 145,
+							"18": 198,
+							"19": 221,
+							"20": 207
+						},
+						"dc_id": 5
+					},
+					"bot_info_version": 41
+				},
+				{
+					"_": "user",
+					"flags": 33555543,
+					"self": true,
+					"contact": false,
+					"mutual_contact": false,
+					"deleted": false,
+					"bot": false,
+					"bot_chat_history": false,
+					"bot_nochats": false,
+					"verified": false,
+					"restricted": false,
+					"min": false,
+					"bot_inline_geo": false,
+					"support": false,
+					"scam": false,
+					"apply_min_photo": true,
+					"fake": false,
+					"id": "5504150431",
+					"access_hash": "16569956476792118413",
+					"first_name": "mao",
+					"last_name": "mao",
+					"phone": "639925933411",
+					"status": {
+						"_": "userStatusOffline",
+						"was_online": 1661195648
+					}
+				},
+				{
+					"_": "user",
+					"flags": 33570859,
+					"self": false,
+					"contact": false,
+					"mutual_contact": false,
+					"deleted": false,
+					"bot": true,
+					"bot_chat_history": false,
+					"bot_nochats": false,
+					"verified": false,
+					"restricted": false,
+					"min": false,
+					"bot_inline_geo": false,
+					"support": false,
+					"scam": false,
+					"apply_min_photo": true,
+					"fake": false,
+					"id": "136817688",
+					"access_hash": "9133490022576037521",
+					"first_name": "Channel",
+					"username": "Channel_Bot",
+					"photo": {
+						"_": "userProfilePhoto",
+						"flags": 2,
+						"has_video": false,
+						"photo_id": "587627495930570665",
+						"stripped_thumb": {
+							"0": 1,
+							"1": 8,
+							"2": 8,
+							"3": 177,
+							"4": 242,
+							"5": 249,
+							"6": 95,
+							"7": 237,
+							"8": 103,
+							"9": 52,
+							"10": 81,
+							"11": 69,
+							"12": 112,
+							"13": 51,
+							"14": 173,
+							"15": 31
+						},
+						"dc_id": 1
+					},
+					"bot_info_version": 4
+				}
+			]
+		}
+	},
+	"message": {}
+}
